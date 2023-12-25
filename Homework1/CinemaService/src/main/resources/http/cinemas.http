@@ -1,0 +1,3 @@
+### Получение списка
+
+GET localhost:82/api/cinemas?api-key=getcinemasfromrussia&cityName=Ekaterinburg
